@@ -6,5 +6,9 @@
     {
         "name": "Темная тема",
         "url": "https://xdurak.github.io/assets/zip/dark.zip"
+    },
+    {
+        "name": "All RSTGAMES",
+        "url": "https://raw.githack.com/XDurak/assets/allrst/zip/MergeAllAssets.zip"
     }
 ]
